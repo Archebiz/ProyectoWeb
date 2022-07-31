@@ -76,6 +76,7 @@ main .main-input input{
     height: 40px;
     border:none;
     outline:none;
+    color:#9aa0a6;
     background-color:var(--main-background-color);
 }
 
